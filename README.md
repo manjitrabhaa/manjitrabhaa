@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manjitrabhaa
 - 👀 I’m interested in programming and cybersecurity.
-- 🌱 I’m currently learning python & java .
+- 🌱 I’m currently learning python, java and Web Development .
 - 💞️ I’m looking to collaborate on android app development.
 - ✍️ Weekend Developer :)
 <!---
