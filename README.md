@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @manjitrabhaa
 - 👀 I’m interested in programming and cybersecurity.
-- 🌱 I’m currently learning python, java and AI, ML.
-- 💞️ I’m looking to collaborate on android app development.
+- 🌱 I’m currently learning python, java, C++ and AI & ML.
 - ✍️ Weekend Developer :)
 <!---
 manjitrabhaa/manjitrabhaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
