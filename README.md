@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Manjit Rabha**  
+# 👋 Howdy, I'm **Manjit Rabha**  
 🎓 **Student of Economics | Exploring the intersection of Technology & Business**  
 💡 Passionate about transforming ideas into digital solutions using data and technology.
 
@@ -40,7 +40,6 @@
 
 ---
 
-## 🔄 **Dynamic Section with Animations**
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=FCA5A5&multiline=true&width=600&height=70&lines=Innovative+thinker+and+problem+solver;Driven+by+technology+and+curiosity)
 
 ---
