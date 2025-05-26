@@ -20,7 +20,7 @@
 - 🌍 **Location:** India  
 - 🐦 [Twitter](https://twitter.com/manjitrabhaa)  
 - 💼 [LinkedIn](https://linkedin.com/in/manjitrabhaa)  
-- 📧 [Email](mailto:rabhamanjit960@gmail.com)
+- 📧 [Email](mailto:manjitrabha42@gmail.com)
 
 ---
 
@@ -28,4 +28,4 @@
 
 ---
 
-> ⚡ _"Curiosity drives innovation, and innovation changes the world."_  
+> ⚡ _"Good is not good, when better is expected"_  
