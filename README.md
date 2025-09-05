@@ -11,14 +11,14 @@
 
 ## 🌱 **What I'm Learning**
 - 📊 Data Analysis and Visualization  
-- 🤖 Advanced Machine Learning  
-- ⚙️ Backend Development for Scalable Applications  
+- 🤖 Advanced AI & Machine Learning  
+- ⚙️ Full-stake Development for Scalable Applications  
 
 ---
 
 ## 🚀 **Let's Connect!**
 - 🌍 **Location:** India  
-- 🐦 [Twitter](https://twitter.com/manjitrabhaa)  
+- 🐦 [X](https://x.com/manjitrabhaa)  
 - 💼 [LinkedIn](https://linkedin.com/in/manjitrabhaa)  
 - 📧 [Email](mailto:manjitrabha42@gmail.com)
 
